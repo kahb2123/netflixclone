@@ -1,6 +1,7 @@
 {
-  "homepage": "httpsa://kahb2123.github.io/netflixclone",
+  
   "name": "netflixclone",
+  "homepage": "https://kahb2123.github.io/netflixclone",
   "private": true,
   "version": "0.0.0",
   "type": "module",
